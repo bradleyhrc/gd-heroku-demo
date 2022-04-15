@@ -1,0 +1,5 @@
+panel
+hvplot
+numpy
+datetime
+pandas
